@@ -1,8 +1,11 @@
 Fora da Moda – Restaurante Bar
 
-Como usar:
+Site estático atualizado com menu digital oficial, organizado por comidas, petiscos, carnes, mariscos, sobremesas, pizzas, bebidas, refrigerantes, águas/sumos, vinhos e cervejas.
+
+Como abrir localmente:
 1. Abra o arquivo index.html no navegador.
-2. Para alterar pratos e preços, edite o bloco window.MENU_DATA dentro do index.html.
-3. Para trocar imagens, substitua os arquivos em assets/images mantendo os mesmos nomes, ou altere os caminhos no index.html.
-4. O formulário de reserva abre WhatsApp para +258 86 499 2397 com a mensagem pronta.
-5. A localização usada no mapa é -15.0990278, 39.4270278.
+
+Como publicar:
+1. Envie todos os arquivos extraídos para um repositório no GitHub.
+2. Importe o repositório na Vercel.
+3. Framework: Other. Build Command: vazio. Output Directory: vazio ou ponto final (.).

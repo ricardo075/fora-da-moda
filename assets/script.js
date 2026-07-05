@@ -1,6 +1,6 @@
 
 const MENU = window.MENU_DATA || {};
-const phone = '258864992397';
+const phone = '258868787572';
 const money = value => `${value.toLocaleString('pt-MZ')} Mts`;
 const tabs = document.querySelector('.menu-tabs');
 const menuItems = document.querySelector('#menuItems');
